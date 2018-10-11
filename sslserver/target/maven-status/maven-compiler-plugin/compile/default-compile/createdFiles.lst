@@ -1,0 +1,4 @@
+org\soalr\controller\Index.class
+org\soalr\model\User.class
+org\soalr\config\SSLConfig.class
+org\soalr\App.class
