@@ -1,0 +1,6 @@
+1. Start API Server/service
+2. homePage - http://localhost:8080/
+3. Prepare Data - http://localhost:8080/init
+4. Start ScoreMange.jar, click menu "Main" -> "Load from Server" to laod data from API Server.
+
+x. exit API Server - http://localhost:8080/exit
