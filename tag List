@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "results": 2,
+  "total": 2,
+  "more": false,
+  "offset": 0,
+  "hits": [
+    {
+      "jcr:path": "/content/cq:tags/isay/Product/TAG",
+      "jcr:primaryType": "cq:Tag",
+      "jcr:createdBy": "admin",
+      "jcr:title": "TAG",
+      "jcr:created": "Thu Dec 03 2020 08:40:14 GMT+0000",
+      "jcr:description": "",
+      "sling:resourceType": "cq/tagging/components/tag"
+    },
+    {
+      "jcr:path": "/content/cq:tags/isay/TAG",
+      "jcr:primaryType": "cq:Tag",
+      "jcr:createdBy": "admin",
+      "jcr:title": "TAG",
+      "jcr:created": "Thu Dec 03 2020 08:40:29 GMT+0000",
+      "jcr:description": "",
+      "sling:resourceType": "cq/tagging/components/tag",
+      "Investment": {
+        "jcr:primaryType": "cq:Tag",
+        "jcr:createdBy": "admin",
+        "jcr:title": "Investment",
+        "jcr:title.en": "Investment",
+        "jcr:title.fr": "Investment Frech",
+        "jcr:created": "Thu Dec 03 2020 08:40:47 GMT+0000",
+        "sling:resourceType": "cq/tagging/components/tag",
+        "jcr:title.zh_cn": "投资",
+        "jcr:title.zh_tw": "投資",
+        "Investment": {
+          "jcr:primaryType": "cq:Tag",
+          "jcr:createdBy": "admin",
+          "jcr:title": "Investment",
+          "jcr:created": "Fri Dec 04 2020 11:25:45 GMT+0000",
+          "jcr:description": "",
+          "sling:resourceType": "cq/tagging/components/tag"
+        },
+        "investment": {
+          "jcr:primaryType": "cq:Tag",
+          "jcr:createdBy": "admin",
+          "jcr:title": "投资",
+          "jcr:created": "Fri Dec 04 2020 11:26:35 GMT+0000",
+          "jcr:description": "",
+          "sling:resourceType": "cq/tagging/components/tag"
+        }
+      },
+      "health": {
+        "jcr:primaryType": "cq:Tag",
+        "jcr:createdBy": "admin",
+        "jcr:title": "health",
+        "jcr:created": "Thu Dec 03 2020 08:41:03 GMT+0000",
+        "jcr:description": "",
+        "sling:resourceType": "cq/tagging/components/tag"
+      }
+    }
+  ]
+}
